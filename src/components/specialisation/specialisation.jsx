@@ -2,7 +2,7 @@ import { Box, Container, Grid, Typography, Button } from "@mui/material";
 import React from "react";
 import cardiology from "../../assets/Cardiology.png";
 import dentistry from "../../assets/Dentistry.png";
-import bloodtest from "../../assets/bloodtest.png";
+import bloodtest from "../../assets/Bloodtest.png";
 import MRI from "../../assets/MRI.png";
 import piscologist from "../../assets/Piscologist.png";
 import primarycare from "../../assets/Primarycare.png";
