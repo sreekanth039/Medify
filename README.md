@@ -72,6 +72,6 @@ git clone https://github.com/your-username/Medify.git
 
 ```
 
-npm install
-npm run dev
-npm run build
+- npm install
+- npm run dev
+- npm run build
